@@ -1,2 +1,2 @@
 # DiceGame-Js
-In this game
+ In this game the user can collect point  “rolling a dice” and he can hold that value until it’s reaching twenty points or more so he can win the game. If the value on the dice is one, or the current player holds his number of points that time we switch the player. If a player wins the game the value of his final score increases with one and he needs to press the “New Game” button to play another game. This app is built with JavaScript.
