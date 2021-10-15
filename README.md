@@ -4,3 +4,4 @@
 ![dice2](https://user-images.githubusercontent.com/69143183/135750655-a9951cae-9848-4161-a3a1-7f6f54a08e83.jpg)
 ![dice3](https://user-images.githubusercontent.com/69143183/135750658-5d4ed0bd-5fad-4062-954a-bee9c0b3997e.jpg)
 ![dice4](https://user-images.githubusercontent.com/69143183/135750659-751ba71d-f2d1-4f16-b4a9-b211215c55a8.jpg)
+![dice5](https://user-images.githubusercontent.com/69143183/135750666-fca09ebd-5dd4-482c-9cd4-f34e2ff0c41d.jpg)
